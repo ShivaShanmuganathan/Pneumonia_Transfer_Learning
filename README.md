@@ -1,2 +1,3 @@
 # Pneumonia_Transfer_Learning
-Transfer Learning Pneumonia with FastAI
+Making use of Transfer Learning to Detect Pneumonia on X-Ray Images with ResNet50 using FASTAI Library
+
